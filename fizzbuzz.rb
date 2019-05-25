@@ -9,7 +9,7 @@ elsif 5 / 5
   puts "Buzz"
 elsif 15 / 15 
   puts "Fizzbuzz"
-elsif 4 /3 
+elsif 4 / 3 
   puts "nil"
 end
   
