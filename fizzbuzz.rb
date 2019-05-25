@@ -2,5 +2,5 @@
 # See README.md for instructions on how to do this
 #fizzbuzz
 
-Def fizzbuzz
-  if 3 / 3 
+if 3 / 3 
+  
