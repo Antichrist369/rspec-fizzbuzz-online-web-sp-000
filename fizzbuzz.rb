@@ -9,10 +9,10 @@ end
 elsif int % 5 
   puts "Buzz"
 end
-elsif 15 % 15 
+elsif 1int % 15 
   puts "Fizzbuzz"
 end
-elsif 4 % 3 
+elsif  % 3 
   puts "nil"
 end
 end
