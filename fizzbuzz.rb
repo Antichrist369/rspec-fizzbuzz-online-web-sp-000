@@ -3,4 +3,4 @@
 #fizzbuzz
 
 Def fizzbuzz
-  if int 
+  if 3 / 3 
