@@ -3,11 +3,13 @@
 #fizzbuzz
 
 def fizzbuzz(int)
-if int 3 == 3 if the number is diviisible by 3
+if int 3 / 3 if the number is diviisible by 3
   puts "fizz"
-elsif 5 == 5 if the number is divisible by 5
+elsif 5 / 5 if the number is divisible by 5
   puts "Buzz"
-elsif 15 == 15 if the number is divisible by 3 or 15
+elsif 15 / 15 if the number is divisible by 3 or 15
   puts "Fizzbuzz"
-elsif 4 == 
+elsif 4 /3 if the number is not divisible by 3 or 5 
+  puts "nil"
+end
   
