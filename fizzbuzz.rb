@@ -3,5 +3,5 @@
 #fizzbuzz
 
 def fizzbuzz(int)
-if int 3 / 3 if the number is diviisible by 3
+if int 3 == 3 if the number is diviisible by 3
 end
