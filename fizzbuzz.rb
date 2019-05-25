@@ -6,13 +6,13 @@ def fizzbuzz(int)
 if int % 3 == 0 
   puts "fizz"
 end
-elsif int % 5 
+elsif int % 5 == 0 
   puts "Buzz"
 end
-elsif 1int % 15 
+elsif 1int % 15 == 0
   puts "Fizzbuzz"
 end
-elsif  % 3 
+elsif 5 % 3 == 0
   puts "nil"
 end
 end
