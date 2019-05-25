@@ -9,7 +9,7 @@ end
 elsif int % 5 == 0 
   puts "Buzz"
 end
-elsif 1int % 15 == 0
+elsif int % 15 == 0
   puts "Fizzbuzz"
 end
 else 5 % 3 == 0
