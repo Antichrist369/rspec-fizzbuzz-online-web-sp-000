@@ -12,7 +12,7 @@ end
 elsif 1int % 15 == 0
   puts "Fizzbuzz"
 end
-elsif 5 % 3 == 0
+else 5 % 3 == 0
   puts "nil"
 end
 end
