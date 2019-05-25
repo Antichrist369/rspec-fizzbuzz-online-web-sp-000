@@ -2,4 +2,5 @@
 # See README.md for instructions on how to do this
 
 Def fizzbuzz
-puts 
+puts 3 / 3 " then it should return fizz"
+end
