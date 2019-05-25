@@ -3,14 +3,14 @@
 #fizzbuzz
 
 def fizzbuzz(int)
-if int % 3 == 0 
-  puts "fizz"
-elsif int % 5 == 0 
-  puts "Buzz"
-elsif int % 15 == 0
-  puts "Fizzbuzz"
-else 5 % 3 == 0
-  puts "nil"
+  if int % 3 == 0 
+   puts "fizz"
+  elsif int % 5 == 0 
+   puts "Buzz"
+  elsif int % 15 == 0
+   puts "Fizzbuzz"
+  else 5 % 3 == 0
+   puts "nil"
   end
 end
   
