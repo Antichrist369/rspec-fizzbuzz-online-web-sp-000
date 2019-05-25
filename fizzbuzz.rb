@@ -4,4 +4,7 @@
 
 def fizzbuzz(int)
 if int 3 == 3 if the number is diviisible by 3
-end
+  puts "fizz"
+  elsif 5 == 5 if the number is divisible by 5
+  puts "Buzz"
+  
