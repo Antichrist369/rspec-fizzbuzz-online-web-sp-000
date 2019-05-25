@@ -3,4 +3,7 @@
 #fizzbuzz
 
 if 3 / 3 
-  print "fizz"
+  puts "fizz"
+end
+
+if 
