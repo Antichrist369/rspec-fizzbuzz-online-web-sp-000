@@ -2,6 +2,7 @@
 # See README.md for instructions on how to do this
 #fizzbuzz
 
-if 3 / 3 
+def fizzbuzz(int)
+if int 3 / 3 if the number is diviisible by 3
   puts "fizz"
-elsif 
+elsif 5 / 5 
