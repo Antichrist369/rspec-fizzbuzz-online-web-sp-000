@@ -3,5 +3,4 @@
 #fizzbuzz
 
 Def fizzbuzz
-puts 3 / 3 " then it should return fizz"
-end
+  if int 
