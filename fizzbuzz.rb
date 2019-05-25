@@ -4,6 +4,3 @@
 
 if 3 / 3 
   puts "fizz"
-end
-
-if 
